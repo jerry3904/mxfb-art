@@ -1,3 +1,2 @@
-Default_wallpaper/* 	usr/share/backgrounds
-login_screen/*		usr/share/backgrounds/MXLinux/lightdm
-GRUB_background/*	usr/share/backgrounds/MXLinux/grub
+*.png	usr/share/backgrounds
+mxfb-credits /usr/share/backgrounds
