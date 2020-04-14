@@ -1,0 +1,11 @@
+Source: mxfb-art
+Section: fluxbox
+Priority: extra
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mxfb-art
+Architecture: all
+Depends: ${misc:Depends}
+Description: Backgrounds and other artwork for MX-Fluxbox
