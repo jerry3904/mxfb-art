@@ -1,2 +1,3 @@
 *.png	usr/share/backgrounds
 mxfb-credits /usr/share/backgrounds
+logos/* usr/share/icons
