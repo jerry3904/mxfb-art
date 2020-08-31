@@ -1,11 +1,34 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: mx16-artwork
-Source: <url://example.com>
+Upstream-Name: mxfb-art
+Source: https://github.com/MX-Linux/mxfb-art
 
-Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Files: mxfb-beeflowerBW.jpg, mxfb-meadow.jpg, mxfb_redleaves.png, mxfb-wintercreek.jpg
+Copyright: 2020 W.D. Scharff <https://forum.mxlinux.org/memberlist.php?mode=email&u=25155>
 License: GPL-3.0+
+
+Files: mxfb-seedheads_bw.jpg
+Copyright: 2020 W.D. Scharff <https://forum.mxlinux.org/memberlist.php?mode=email&u=25155>, Utopia <https://forum.mxlinux.org/memberlist.php?mode=email&u=3339>
+License: GPL-3.0+
+
+Files: mxfb-bluerain.png, mxfb-goldline.png, mxfb-lightblueabstract.png, mxfb-pinkwave.png, mxfb-spring.png, mxfb-waveabove.png, mxfb-spring.png
+Copyright: 2020 antechdesigns (https://www.opendesktop.org/u/antechdesigns/)
+License: GPL-3.0+
+
+Files: mxfb-cyanblueblocks.png, logos/*
+Copyright: 2020 Utopia <https://forum.mxlinux.org/memberlist.php?mode=email&u=3339>
+License: GPL-3.0+
+
+Files: mxfb-graycubes.png
+Copyright: 2020 ceeslans <https://forum.mxlinux.org/memberlist.php?mode=email&u=21378>
+License: GPL-3.0+
+
+Files: mxfb-darknight.png
+Copyright: 2020 JayM for MXFB from original by Susanlu4esm (https://wall.alphacoders.com/by_creator.php?id=102683)
+License: CC0 1.0 Universal - Public Domain
+
+Files: mxfb-galaxycenter.png
+Copyright: 2020 Felix Mittermeier on Pixabay (https://pixabay.com/photos/milky-way-starry-sky-night-sky-star-2695569/)open Pixabay license
+License: open Pixabay license
 
 Files: debian/*
 Copyright: 2015 Kent Mathern <maintainer@mepiscommunity.org>
@@ -28,9 +51,3 @@ License: GPL-3.0+
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid to pick license terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
-
-Copyright statements for the art material can be found in the file credit-copyright
