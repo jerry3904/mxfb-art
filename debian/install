@@ -1,5 +1,5 @@
+*.png	usr/share/backgrounds
 *.jpg   usr/share/backgrounds
-*.png   usr/share/backgrounds
-mxfb-credit-copyright usr/share/backgrounds
+mxfb-credits usr/share/backgrounds
 logos/* usr/share/icons
 wallpapers/* usr/share/wallpapers
